@@ -1,0 +1,2 @@
+import { PlaybackRateOption, PlaybackRateOptionsProps, PlaybackRateOptionsResult, usePlaybackRateOptions } from "./use-playback-rate-options.js";
+export { type PlaybackRateOption, type PlaybackRateOptionsProps, type PlaybackRateOptionsResult, usePlaybackRateOptions };

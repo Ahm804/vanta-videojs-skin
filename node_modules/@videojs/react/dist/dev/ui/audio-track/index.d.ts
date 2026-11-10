@@ -1,0 +1,2 @@
+import { AudioTrackOption, AudioTrackOptionsProps, AudioTrackOptionsResult, useAudioTrackOptions } from "./use-audio-track-options.js";
+export { type AudioTrackOption, type AudioTrackOptionsProps, type AudioTrackOptionsResult, useAudioTrackOptions };
